@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/T1.unity
+    guid: 38c32ece5ab137641bf6c0c64b2c5460
+  - enabled: 0
+    path: Assets/Scenes/Assignment1.unity
+    guid: ffbe482a701a69b45a52cb94f0d16e2f
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/69.0.2/Example Scenes/ComprehensiveRigExample.unity"
+    guid: 2efe93cb8972cae439bfba2dcd4165f0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4ef5a7f4c198ce74fb5ec528a95aa227, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 07d40ae2efda84e4fb960c96c963b019, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 56864213636face4bb84a7c444be8b5e, type: 2}
